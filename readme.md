@@ -16,4 +16,9 @@ GitHub快速取关机会读取你帐号的follower信息，然后向他们的邮
 
 ## 使用方法
 
-(我还没写哪来的使用方法，先等我回去把坑填了……)
+```
+pip install requests pygithub
+python3 close.py
+```
+
+对了，在运行之前你要写一个配置文件，反正`close.py`里缺什么就填什么，就这样，88。
